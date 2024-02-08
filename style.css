@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#title{
+    background-color: black;
+    color: white;
+    padding: 2vh;
+    border-radius: 1vh;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vh;
+    line-height: 6vh;
+    margin: 2vh 0vh;
+}
+#data{
+    margin: 5vh 10vh;
+}
+table {
+    width: 90%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    font-weight: 600;
+    margin: 0 auto;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
